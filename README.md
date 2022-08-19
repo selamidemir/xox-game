@@ -2,12 +2,12 @@
 
 X ve O oyuncularından oluşan 9 x 9 luk bir alanda, oyanan bir oyun.
 
-## Nasıl Oynanır
+## Nasıl Oynanır?
 
 Oyunca amaç, oyuncu kendi taşını yan yana, dikey veya çapraz olarak 3 lü olarak sıralayacak.
 İlk olarak üçlü sıralamayı oluşturursa oyunu o kazanır.
 
-## Kullanılan Araçlar
+## Ne İle Geliştirildi?
 
 Oyun React ve Redux kullanılarak oluşturulmuştur. Sayfa düzenlemeleri CSS ile yapılmıştır.
 
