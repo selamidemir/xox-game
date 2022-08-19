@@ -15,4 +15,4 @@ Oyun React ve Redux kullanılarak oluşturulmuştur. Sayfa düzenlemeleri CSS il
 
 ![Ekran Görüntüsü](xox-game-screenshot.png "XoX Game Ekran Görüntüsü")
 
-Test etmek için tıklayın.
+[Test etmek için tıklayın.](https://xoxgame1.netlify.app/ "XoX Game")
